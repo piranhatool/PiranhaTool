@@ -12,5 +12,5 @@ Supported OS: Windows 7–12 (x86/x64).
 
 ---
 
-📘 **Official Website:** [https://piranha-tool.com](https://piranha-tool.com)  
-💬 **Community & Support:** [https://t.me/piranhaToolOfficial](https://t.me/piranhaToolOfficial)
+📘 **Official Website:** [https://piranha-tool.com](https://piranhatool.com)  
+💬 **Community & Support:** [https://t.me/piranhaToolOfficial](https://t.me/piranhatool)
